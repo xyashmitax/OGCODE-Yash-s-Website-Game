@@ -1,6 +1,6 @@
 # Yash-s-Website-Game
 
-https://xyashmitax.github.io/Yash-s-Website-Game/
+[https://xyashmitax.github.io/Yash-s-Website-Game/](https://xyashmitax.github.io/OGCODE-Yash-s-Website-Game/)
 
 Still in progress but this is what I have so far!! I tried to challenge myself by making a game using only HTML if you can see
 
